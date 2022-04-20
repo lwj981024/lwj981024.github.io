@@ -1,6 +1,6 @@
 ## Hi! 
 
-Hey what's up. My name is Weijia Luo and welcome to my GitHub Pages.
+Hey what's up. My name is Weijia Luo and welcome to my GitHub Pages. I am a crazy fan of cheese chicken burgers.
 
 I am studying for master degree in Electric Engineering Department in Hanyang University.  
 
