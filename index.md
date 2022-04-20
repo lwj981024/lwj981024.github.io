@@ -4,6 +4,8 @@ Hey what's up. My name is Weijia Luo and welcome to my GitHub Pages. I am a craz
 
 I am studying for master degree in Electric Engineering Department in Hanyang University.  
 
+My research interests include robotics vision and image process.  
+
 Please feel free to contact me @lwj981024"hanyang.ac.kr.
 
 ### Experience
@@ -36,7 +38,7 @@ Dept.of Mechine Engineering, Qingdao University of Science and Tecnnology (China
 50% scolarship from Hanyang University
 
 
-### Ability
+### Backgrouds
 
 Foreign Language
 * Mandarin
