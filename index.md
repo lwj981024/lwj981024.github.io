@@ -44,16 +44,16 @@ Foreign Language Scolarship (Korean) from Hanyang University
  
 ### Skills
 
-Foreign Language
+#### Foreign Language
 * Mandarin
 * English
 * Korean
 
-Programing Language
+#### Programing Language
 * Python
 * C Programing language
 
-Software 
+#### Software 
 * Pro/ENGINEER
 * Catia
 * CAD
