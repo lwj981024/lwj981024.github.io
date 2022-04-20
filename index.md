@@ -1,37 +1,35 @@
 ## Welcome to GitHub Pages
 
-Hi! I am Weijia Luo and welcome to my GitHub Pages.
+Hi! My name is Weijia Luo and welcome to my GitHub Pages.
 
-I am a student come from the Department of Electric Engineering, Hanyang University.
+I am a master student at the Hanyang University's Department of Electric Engineering.
 
-### Markdown
+Please feel free to contact me at lwj981024"hanyang.ac.kr
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+* MS  
+2021-Currently  
+Dept.of Electrical Engineering, Hanyang University  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+* BS  
+2019-2021  
+Dept.of Mechine Engineering, Hanyang University  
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+* BS  
+2017-2021  
+Dept.of Mechine Engineering, Qingdao University of Science and Tecnnology  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lwj981024/lwj981024.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Awards
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* 2021-Currently 
+50% scolarship from Hanyang University
+
+* 2019-2021 
+50% scolarship from Hanyang University
