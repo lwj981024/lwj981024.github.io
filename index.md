@@ -1,6 +1,6 @@
-## Hi! Have a nice day.
+## Hi! 
 
-Hi! My name is Weijia Luo and welcome to my GitHub Pages.
+Hey what's up. My name is Weijia Luo and welcome to my GitHub Pages.
 
 I am a master student at the Hanyang University's Department of Electric Engineering.
 
