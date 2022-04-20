@@ -45,13 +45,13 @@ Foreign Language Scolarship (Korean) from Hanyang University
 ### Skills
 
 #### Foreign Language
-* Mandarin
-* English
-* Korean
+* Fluent in Mandarin Chinese  
+* Business-level Korean  
+* Business-level Korean  
 
 #### Programing Language
-* Python
-* C Programing language
+* Fluent in Python  
+* Fluent in C Programing language  
 
 #### Software 
 * Pro/ENGINEER
