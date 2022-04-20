@@ -36,13 +36,12 @@ GPA : 78.94%
 * 2021-Currently 
 50% scolarship from Hanyang University
 
-* 2019-2021 
-50% scolarship from Hanyang University
-
-
 * 2020
 Foreign Language Scolarship (Korean) from Hanyang University  
 
+* 2019-2021 
+50% scolarship from Hanyang University
+ 
 ### Skills
 
 Foreign Language
