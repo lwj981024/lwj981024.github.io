@@ -2,7 +2,7 @@
 
 Hi! I am Weijia Luo and welcome to my GitHub Pages.
 
-I am a student come from the Department of Electric Engineering, Hanyang University currently.
+I am a student come from the Department of Electric Engineering, Hanyang University.
 
 ### Markdown
 
