@@ -38,6 +38,9 @@ Dept.of Mechine Engineering, Qingdao University of Science and Tecnnology (China
 50% scolarship from Hanyang University
 
 
+* 2020
+Foreign Language Scolarship (Korean) from Hanyang University  
+
 ### Backgrouds
 
 Foreign Language
