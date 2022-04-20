@@ -34,3 +34,22 @@ Dept.of Mechine Engineering, Qingdao University of Science and Tecnnology
 
 * 2019-2021 
 50% scolarship from Hanyang University
+
+
+### Ability
+
+Foreign Language
+* English
+* Korean
+
+Programing Language
+* Python
+* C Programing language
+
+Software 
+* Pro/ENGINEER
+* Catia
+* CAD
+* Ansys
+* Matlab
+* Robot Operation System
