@@ -39,7 +39,7 @@ Dept.of Mechine Engineering, Qingdao University of Science and Tecnnology
 ### Ability
 
 Foreign Language
-* Chinese
+* Mandarin
 * English
 * Korean
 
