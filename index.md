@@ -31,7 +31,7 @@ Averange 85.7%
 * BS  
 2017-2019  
 Dept.of Mechine Engineering, Qingdao University of Science and Tecnnology (China)  
-Revalant Coursework : Probability and Math Statistics (95),  Mechanics of Materials (83), Machinery Three-Dimensional Molding and Design (81), Engineering Thermodynamics (81), Electrical & Electronic Practice (81), Mechanical engineering training (80)
+Revalant Coursework : Probability and Math Statistics (95),  Mechanics of Materials (83), Machinery Three-Dimensional Molding and Design (81), Engineering Thermodynamics (81), Electrical & Electronic Practice (81), Mechanical engineering training (80)  
 GPA : 78.94%  
 
 ### Awards
