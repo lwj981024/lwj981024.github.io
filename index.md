@@ -12,12 +12,13 @@ Please feel free to contact me at lwj981024"hanyang.ac.kr
 * MS  
 2021-Currently  
 Dept.of Electrical Engineering, Hanyang University  
-
+Averange 88%
 
 
 * BS  
 2019-2021  
 Dept.of Mechine Engineering, Hanyang University  
+Averange 86.4%
 
 
 
