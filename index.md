@@ -4,7 +4,7 @@ Hey what's up. My name is Weijia Luo and welcome to my GitHub Pages.
 
 I am studying for master degree in Electric Engineering Department in Hanyang University.  
 
-Please feel free to contact me @lwj981024"hanyang.ac.kr
+Please feel free to contact me @lwj981024"hanyang.ac.kr.
 
 ### Experience
 
