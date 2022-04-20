@@ -15,21 +15,21 @@ Please feel free to contact me ---> lwj981024@hanyang.ac.kr
 ##### Biomedical Robotics LAB,(http://bmr.hanyang.ac.kr/), Hanyang University  (Korea)  
 * Research Advisor : Sungon Lee  
 * Revalant Coursework : Advanced Linearly Algebra (A), Writing Research Papers (A)  
-* Averange 88%
+* Average 88%
 
 
 #### BS  in Mechine Engineering                          2019-2021  
 ##### Hanyang University (Korea)
 * Research Advisor : Namwook Kim  
 * Revalant Coursework : ICT Fusion Robotics (A+), Manufacturing Processing (B+), Statics(B+), Engineering Mathematics1 (B+), Dynamics (B+), Control System Engineering1 (B+)  
-* Averange 85.7%
+* Average 85.7%
 
 
 
 #### BS  in Mechine Engineering                          2017-2021  
 ##### Qingdao University of Science and Technology  
 * Revalant Coursework : Probability and Math Statistics (95),  Mechanics of Materials (83), Machinery Three-Dimensional Molding and Design (81), Engineering Thermodynamics (81), Electrical & Electronic Practice (81), Mechanical engineering training (80)  
-* GPA : 78.94%  
+* Average 85.7  
 
 ### Awards
 
