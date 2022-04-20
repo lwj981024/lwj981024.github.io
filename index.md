@@ -13,21 +13,26 @@ Please feel free to contact me ---> lwj981024@hanyang.ac.kr
 
 * MS  
 2021-Currently  
-Biomedical Robotics LAB, Dept.of Electrical Engineering, Hanyang University  (Korea)  
+Biomedical Robotics LAB,(http://bmr.hanyang.ac.kr/)
+Dept.of Electrical Engineering, Hanyang University  (Korea)  
+Research Advisor : Sungon-Lee
+Revalant Coursework : Advanced Linearly Algebra (A), Writing Research Papers (A)  
 Averange 88%
 
 
 * BS  
 2019-2021  
 Dept.of Mechine Engineering, Hanyang University  (Korea)  
-Averange 86.4%
+Revalant Coursework : ICT Fusion Robotics (A+), Manufacturing Processing (B+), Statics(B+), Engineering Mathematics1 (B+), Dynamics (B+), Control System Engineering1 (B+)  
+Averange 85.7%
 
 
 
 * BS  
-2017-2021  
+2017-2019  
 Dept.of Mechine Engineering, Qingdao University of Science and Tecnnology (China)  
-
+Revalant Coursework : Probability and Math Statistics (95),  Mechanics of Materials (83), Machinery Three-Dimensional Molding and Design (81), Engineering Thermodynamics (81), Electrical & Electronic Practice (81), Mechanical engineering training (80)
+GPA : 78.94%  
 
 ### Awards
 
