@@ -29,7 +29,7 @@ Please feel free to contact me ---> lwj981024@hanyang.ac.kr
 #### BS  in Mechine Engineering                          2017-2021  
 ##### Qingdao University of Science and Technology (China）  
 * Revalant Coursework : Probability and Math Statistics (95),  Mechanics of Materials (83), Machinery Three-Dimensional Molding and Design (81), Engineering Thermodynamics (81), Electrical & Electronic Practice (81), Mechanical engineering training (80)  
-* Average 85.7  
+* Average 78.94%  
 
 ### Awards
 
