@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lwj981024/lwj981024.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I am Weijia Luo and welcome to my GitHub Pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a student come from the Department of Electric Engineering, Hanyang University currently.
 
 ### Markdown
 
