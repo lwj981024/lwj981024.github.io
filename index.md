@@ -6,7 +6,7 @@ I am studying for master degree in Electric Engineering Department in Hanyang Un
 
 My research interests include robotics vision and image process.  
 
-Please feel free to contact me @lwj981024"hanyang.ac.kr.
+Please feel free to contact me ---> lwj981024@hanyang.ac.kr
 
 ### Experience
 
