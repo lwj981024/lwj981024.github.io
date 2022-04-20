@@ -11,20 +11,20 @@ Please feel free to contact me @lwj981024"hanyang.ac.kr.
 
 * MS  
 2021-Currently  
-Biomedical Robotics LAB, Dept.of Electrical Engineering, Hanyang University  
+Biomedical Robotics LAB, Dept.of Electrical Engineering, Hanyang University  (Korea)  
 Averange 88%
 
 
 * BS  
 2019-2021  
-Dept.of Mechine Engineering, Hanyang University  
+Dept.of Mechine Engineering, Hanyang University  (Korea)  
 Averange 86.4%
 
 
 
 * BS  
 2017-2021  
-Dept.of Mechine Engineering, Qingdao University of Science and Tecnnology  
+Dept.of Mechine Engineering, Qingdao University of Science and Tecnnology (China)  
 
 
 ### Awards
