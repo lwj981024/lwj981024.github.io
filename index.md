@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi! Have a nice day.
 
 Hi! My name is Weijia Luo and welcome to my GitHub Pages.
 
