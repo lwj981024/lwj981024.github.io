@@ -11,25 +11,26 @@ Please feel free to contact me ---> lwj981024@hanyang.ac.kr
 ### Experience
 
 
-* MS  in Electrical Engineering  
-Biomedical Robotics LAB,(http://bmr.hanyang.ac.kr/)  
-Hanyang University  (Korea)                  2021-Currently    
-Research Advisor : Sungon-Lee  
-Revalant Coursework : Advanced Linearly Algebra (A), Writing Research Papers (A)  
-Averange 88%
+* MS  in Electrical Engineering                    2021-Currently   
+ * Biomedical Robotics LAB,(http://bmr.hanyang.ac.kr/)  
+ * Hanyang University  (Korea)  
+ * Research Advisor : Sungon Lee  
+  * Revalant Coursework : Advanced Linearly Algebra (A), Writing Research Papers (A)  
+  * Averange 88%
 
 
 * BS  in Mechine Engineering  
-Hanyang University (Korea)                    2019-2021  
-Revalant Coursework : ICT Fusion Robotics (A+), Manufacturing Processing (B+), Statics(B+), Engineering Mathematics1 (B+), Dynamics (B+), Control System Engineering1 (B+)  
-Averange 85.7%
+ * Hanyang University (Korea)
+ * Research Advisor : Namwook Kim  
+  * Revalant Coursework : ICT Fusion Robotics (A+), Manufacturing Processing (B+), Statics(B+), Engineering Mathematics1 (B+), Dynamics (B+), Control System Engineering1 (B+)  
+  * Averange 85.7%
 
 
 
 * BS  in Mechine Engineering  
-Qingdao University of Science and Technology  2017-2019  
-Revalant Coursework : Probability and Math Statistics (95),  Mechanics of Materials (83), Machinery Three-Dimensional Molding and Design (81), Engineering Thermodynamics (81), Electrical & Electronic Practice (81), Mechanical engineering training (80)  
-GPA : 78.94%  
+ * Qingdao University of Science and Technology  
+  * Revalant Coursework : Probability and Math Statistics (95),  Mechanics of Materials (83), Machinery Three-Dimensional Molding and Design (81), Engineering Thermodynamics (81), Electrical & Electronic Practice (81), Mechanical engineering training (80)  
+  * GPA : 78.94%  
 
 ### Awards
 
