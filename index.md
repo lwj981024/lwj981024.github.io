@@ -15,7 +15,7 @@ Please feel free to contact me ---> lwj981024@hanyang.ac.kr
 ##### Biomedical Robotics LAB,(http://bmr.hanyang.ac.kr/), Hanyang University  (Korea)  
 * Research Advisor : Sungon Lee  
 * Revalant Coursework : Advanced Linearly Algebra (A), Writing Research Papers (A)  
-* Average 88%
+* Average 85%
 
 
 #### BS  in Mechine Engineering                          2019-2021  
