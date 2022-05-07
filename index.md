@@ -46,7 +46,7 @@ Foreign Language Scolarship (Korean) from Hanyang University
 
 #### Foreign Language
 * Fluent in Mandarin Chinese  
-* Business-level Korean  
+* Business-level English  
 * Business-level Korean  
 
 #### Programing Language
