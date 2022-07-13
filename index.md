@@ -14,8 +14,8 @@ Please feel free to contact me ---> lwj981024@hanyang.ac.kr
 #### MS  in Electrical Engineering                     2021-Currently  
 ##### Biomedical Robotics LAB,(http://bmr.hanyang.ac.kr/), Hanyang University  (Korea)  
 * Research Advisor : Sungon Lee  
-* Revalant Coursework : Advanced Linearly Algebra (A), Writing Research Papers (A)  
-* Average 88%
+* Revalant Coursework : Methods of Applied Mathematics (A+), Mechine Learning and Artificial Intelligence (A+), 3D Computer Vision (A), Advanced Linearly Algebra (A) 
+* Average 93%
 
 
 #### BS  in Mechine Engineering                          2019-2021  
